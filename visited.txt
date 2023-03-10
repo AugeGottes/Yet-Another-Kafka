@@ -1,0 +1,1 @@
+{"broker1": 0, "broker2": 0, "broker3": 0}
